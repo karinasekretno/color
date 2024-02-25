@@ -24,10 +24,7 @@ document.addEventListener('click', (event) => {
 })
 
 function gerenerateRandomColor() {
-  // RGB
-  // #FF0000
-  // #00FF00
-  // #0000FF
+
 
   const hexCodes = '0123456789ABCDEF'
   let color = ''
